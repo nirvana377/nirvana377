@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Sobre mí
+###  Sobre mí
 
 ```ts
 const emanuel = {
@@ -18,16 +18,16 @@ const emanuel = {
 };
 ```
 
-- 🚀 Apasionado por crear aplicaciones web completas, desde la UI hasta el servidor
-- 💡 Me gusta aprender haciendo — cada proyecto es una oportunidad de mejorar
-- 🌱 Actualmente profundizando en arquitecturas escalables con React + Node.js
-- ⚡ Fan del código limpio, las buenas APIs y el café
+-  Apasionado por crear aplicaciones web completas, desde la UI hasta el servidor
+-  Me gusta aprender haciendo — cada proyecto es una oportunidad de mejorar
+-  Actualmente profundizando en arquitecturas escalables con React + Node.js
+-  Fan del código limpio, las buenas APIs y el café
 
 ---
 
-### 🛠️ Stack tecnológico
+###  Stack tecnológico
 
-#### 🌐 Frontend
+####  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,18 +35,18 @@ const emanuel = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### ⚙️ Backend
+####  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### 🗄️ Bases de datos
+####  Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🔧 Herramientas & DevOps
+####  Herramientas & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -56,20 +56,20 @@ const emanuel = {
 
 ---
 
-### 🚀 Lo que construyo
+###  Lo que construyo
 
 > Proyectos full stack con autenticación real, bases de datos en producción y deploy completo.
 
 | Proyecto | Stack | Deploy |
 |----------|-------|--------|
-| 🛍️ App con auth JWT | React + Node + MongoDB | Vercel + Render + Atlas |
-| 📊 Dashboard de datos | Next.js + TypeScript + PostgreSQL | AWS |
-| 🌐 Página ebook | HTML + JS + Tailwind | GitHub Pages |
-| 🔄 API REST | Express + Mongoose + JWT | Render |
+|  App con auth JWT | React + Node + MongoDB | Vercel + Render + Atlas |
+|  Dashboard de datos | Next.js + TypeScript + PostgreSQL | AWS |
+|  Página ebook | HTML + JS + Tailwind | GitHub Pages |
+|  API REST | Express + Mongoose + JWT | Render |
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <div align="center">
 
